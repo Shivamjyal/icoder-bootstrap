@@ -1,0 +1,3 @@
+        <button class="btn btn-danger">Technology</button>
+        <button class="btn btn-primary">Web devlopment</button>
+        <button class="btn btn-sucsess">Tech Fun</button>
